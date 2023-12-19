@@ -1,3 +1,5 @@
+# VRINDA STORE ANALYSIS 
+
 Hello, my dear friends, harshit here to introduce my research project on the Vrinda store dataset, for which I made a lovely dashboard using Ms-Excel.
 
 # THE DASHBOARD
