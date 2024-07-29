@@ -26,3 +26,7 @@ Vrinda Store want to produce an annual sales report for 2022 in order to better 
 
 # The Insights
 ![insights](https://github.com/HarshitLaloriya/Vrinda-Store-Analysis-using-Ms-Excel-with-Interactive-Dashboard-/assets/153602422/7e4c3072-4f16-493d-a0f6-12891adf2bbf)
+
+<p align="center">
+  <img width="268" alt="symbol" src="https://github.com/HarshitLaloriya/SMS-Classification-Model/assets/153602422/aac7df32-7c7a-46ee-9fcf-84767bc0d029">
+</p>
